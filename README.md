@@ -16,3 +16,6 @@ A simple Python game where the computer randomly selects a number between 1 and 
 - Random module
 - While loop
 - If-elif-else conditions
+## 👩‍💻 Author
+
+Kashish Gupta
